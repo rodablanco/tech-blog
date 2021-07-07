@@ -9,7 +9,6 @@ const postData = [
   },
   {
     title: 'Finding my dogs a friend!',
-    category: 'meetup',
     description: 'I would like to find friends for my two dogs!',
     user_id: 1,
   },
