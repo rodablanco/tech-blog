@@ -12,6 +12,8 @@
   Forum to share ideas with fellow coders 
   ## Installation:
   npm i
+  ## Screenshot
+  <img src="assets/images/README-screenshot.png" alt="screenshot">
   ## Usage:
   Click on the link above
   ## License:
