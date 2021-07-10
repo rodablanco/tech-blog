@@ -13,7 +13,7 @@
   ## Installation:
   npm i
   ## Screenshot
-  ![project screenshot](/images/noteTakerPic.png)
+  ![project screenshot](/images/techBlog.png)
   ## Usage:
   Click on the link above
   ## License:
