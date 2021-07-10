@@ -2,12 +2,14 @@
 const router = require('express').Router();
 const { Comment, Post, User } = require('../models');
 
+
+
 // home route
 router.get('/', async (req, res) => {
   try {
     const postData = await Post.findAll({
       include: [{ model: User }],
-      // order: [["id", "DESC"]],
+      
     });
 
     // serialize the data

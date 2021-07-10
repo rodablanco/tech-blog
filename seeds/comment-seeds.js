@@ -4,41 +4,30 @@ const { Comment } = require('../models');
 const commentData = [
   {
     
-    body: 'I can watch your cats for the weekend!',
+    body: 'Bootstrap, Bulma are 2 good ones',
     user_id: '1',
     post_id: '1', 
   },
   {
 
-    body: 'We can have our dogs meet every Friday at the park!',
+    body: 'Its the only one I use!',
     user_id: '2',
     post_id: '2', 
   },
   {
 
-    body: 'They should average 20 hours per day because they grow very fast!',
+    body: 'Its tooo structured, noSQL is better because the structure adapts to the data. SQL you have to adapt the data to the structure',
     user_id: '5',
     post_id: '3', 
   },
   {
     
   
-    body: 'Echo clean leash is my favorite one!',
+    body: 'for (statement 1; statement 2; statement 3) {Code block to be executed}',
     user_id: '5',
     post_id: '4', 
   },
-  {
   
-    body: 'I know a great trainer that can help you!',
-    user_id: '2',
-    post_id: '5', 
-  },
-  {
-
-    body: 'Your cat Layla can play with my cats on the weekends that I am home!',
-    user_id: '3',
-    post_id: '6', 
-  },
 ];
 
 // create and insert multiple Comments using commentData

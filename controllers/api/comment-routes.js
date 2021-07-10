@@ -5,6 +5,7 @@ const { Comment } = require('../../models');
 // import helper to prevent access unless user is logged in
 const withAuth = require('../../utils/auth');
 
+
 // GET all comments
 router.get('/', async (req, res) => {
   try {

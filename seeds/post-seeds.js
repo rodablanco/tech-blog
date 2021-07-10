@@ -3,36 +3,26 @@ const { Post } = require('../models');
 
 const postData = [
   {
-    title: 'I want a cat sitter!',
-    description: 'I would like to find a cat sitter for my two cats James & Jackson.',
+    title: 'CSS framework',
+    description: 'Any suggestions on a good CSS framework?',
     user_id: 3,
   },
   {
-    title: 'Finding my dogs a friend!',
-    description: 'I would like to find friends for my two dogs!',
+    title: 'Insomnia',
+    description: 'Opnions of Insomnia?',
     user_id: 1,
   },
   {
-    title: 'Sleep for dogs',
-    description: 'How much do husky pups need to sleep every day?',
+    title: 'Opnions on mySQL',
+    description: 'Tell me why you like or dislike mySQL',
     user_id: 2,
   },
   {
-    title: 'Leashes for pit bulls',
-    description: 'Which leash is the best for my full grown pit bull?',
+    title: 'for loops',
+    description: 'What is the basic for loop?',
     user_id: 4,
   },
-  {
-
-    title: 'Training older dogs',
-    description: 'I would like to get training tips for my 5 year-old labrador!',
-    user_id: 5,
-  },
-  {
-    title: 'Finding a friend for my cat',
-    description: 'I would like to find a cat to befriend my cat Layla, so they can play on the weekends!',
-    user_id: 5,
-  },
+ 
 ];
 
 // create and insert multiple Posts using postData

@@ -20,11 +20,11 @@ Post.init(
       allowNull: false,
     },
     description: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT,
       allowNull: false,
     },
     date_created: {
-      type: DataTypes.TEXT,
+      type: DataTypes.DATE,
       allowNull: false,
       defaultValue: DataTypes.NOW,
    },

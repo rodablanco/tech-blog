@@ -5,6 +5,7 @@ const { Post } = require('../../models');
 // import helper to prevent access unless user is logged in
 const withAuth = require('../../utils/auth');
 
+
 // GET all posts
 router.get('/', async (req, res) => {
   try {
