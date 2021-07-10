@@ -13,7 +13,7 @@
   ## Installation:
   npm i
   ## Screenshot
-  <img src="assets/images/README-screenshot.png" alt="screenshot">
+  ![project screenshot](/images/noteTakerPic.png)
   ## Usage:
   Click on the link above
   ## License:
