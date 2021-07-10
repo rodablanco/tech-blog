@@ -12,6 +12,8 @@
   Forum to share ideas with fellow coders 
   ## Installation:
   npm i
+  ## Screenshot
+  ![project screenshot](/images/noteTakerPic.png)
   ## Usage:
   Click on the link above
   ## License:
