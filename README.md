@@ -15,7 +15,7 @@
   ## Screenshot
   ![project screenshot](/images/techBlog.png)
   ## Usage:
-  Click on the link above
+  Click on the link: https://tech-blog24.herokuapp.com/
   ## License:
   MIT
   ## Contribution:
